@@ -15,6 +15,10 @@ class Program
             //Console.Clear();
             Console.WriteLine(" ____________________________________________");
             Console.WriteLine("|                                            |");
+            Console.WriteLine("|            Proyecto disponible en          |");
+            Console.WriteLine("|         github.com/santic5/Byte-Bills      |");
+            Console.WriteLine(" ____________________________________________");
+            Console.WriteLine("|                                            |");
             Console.WriteLine("|            Byte&Bills Restaurante          |");
             Console.WriteLine("|                                            |");
             Console.WriteLine(" --------------------------------------------");

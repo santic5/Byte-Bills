@@ -9,3 +9,4 @@ C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&
 C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\refint\Byte&BillsSolution.dll
 C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&BillsSolution.pdb
 C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\ref\Byte&BillsSolution.dll
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&BillsSolution.sourcelink.json

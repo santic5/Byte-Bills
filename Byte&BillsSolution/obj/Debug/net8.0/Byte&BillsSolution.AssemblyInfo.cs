@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Byte&BillsSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bb7d94ec8dfc39bc2e2cd1196aef67d85a98371")]
 [assembly: System.Reflection.AssemblyProductAttribute("Byte&BillsSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Byte&BillsSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

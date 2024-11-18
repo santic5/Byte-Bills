@@ -12,7 +12,7 @@ namespace Byte_BillsSolution.Collection.ADT
         #region Attributes
         protected LinkedNode<T> attFirst = default;
         protected LinkedNode<T> attLast = default;
-        protected int attMaxCapacity = 10;
+        protected int attMaxCapacity = 100;
         protected int attLength = 0;
         #endregion
 

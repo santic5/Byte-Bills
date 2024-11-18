@@ -17,3 +17,4 @@ C:\Users\donye\source\repos\Byte&Bills\Byte&BillsConsole\obj\Debug\net8.0\Byte&B
 C:\Users\donye\source\repos\Byte&Bills\Byte&BillsConsole\obj\Debug\net8.0\Byte&BillsConsole.genruntimeconfig.cache
 C:\Users\donye\source\repos\Byte&Bills\Byte&BillsConsole\obj\Debug\net8.0\ref\Byte&BillsConsole.dll
 C:\Users\donye\source\repos\Byte&Bills\Byte&BillsConsole\bin\Debug\net8.0\CommandLine.dll
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsConsole\obj\Debug\net8.0\Byte&BillsConsole.sourcelink.json
