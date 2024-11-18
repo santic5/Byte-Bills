@@ -1,0 +1,11 @@
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\bin\Debug\net8.0\Byte&BillsSolution.deps.json
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\bin\Debug\net8.0\Byte&BillsSolution.dll
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\bin\Debug\net8.0\Byte&BillsSolution.pdb
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&BillsSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&BillsSolution.AssemblyInfoInputs.cache
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&BillsSolution.AssemblyInfo.cs
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&BillsSolution.csproj.CoreCompileInputs.cache
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&BillsSolution.dll
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\refint\Byte&BillsSolution.dll
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\Byte&BillsSolution.pdb
+C:\Users\donye\source\repos\Byte&Bills\Byte&BillsSolution\obj\Debug\net8.0\ref\Byte&BillsSolution.dll
